@@ -1,10 +1,11 @@
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![Arduino](https://img.shields.io/badge/Arduino-1.8%2B-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)  
+# DigiSpark PIN Brute Force Demonstration
+
+![Arduino](https://img.shields.io/badge/Arduino-1.8%2B-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-11%2B-blueviolet)
+![Microcontroller](https://img.shields.io/badge/Microcontroller-Digispark-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Ethical Use](https://img.shields.io/badge/Ethical%20Use-Required-red)  
 ![Platform](https://img.shields.io/badge/Platform-DigiSpark-9cf)  
-
-# DigiSpark PIN Brute Force Demonstration
 
 **⚠️ Critical Disclaimer**:  
 This script is for **educational purposes only**. Unauthorized access to devices is illegal. Use only on devices you own or have permission to test.By using this software, you agree to use it ethically and legally.
