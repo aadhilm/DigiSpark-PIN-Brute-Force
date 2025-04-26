@@ -7,7 +7,7 @@
 ![Ethical Use](https://img.shields.io/badge/Ethical%20Use-Required-red)  
 ![Platform](https://img.shields.io/badge/Platform-DigiSpark-9cf)  
 
-**⚠️ Critical Disclaimer**:  
+**⚠️ Critical Disclaimer**  
 This script is for **educational purposes only**. Unauthorized access to devices is illegal. Use only on devices you own or have permission to test.By using this software, you agree to use it ethically and legally.
 
 ## 🔍 Project Overview
@@ -75,9 +75,10 @@ This Arduino script is designed to perform a PIN brute force attack on a device 
    - Tools > Board > Boards Manager > Install "Digistump AVR Boards"
 3. Install DigiKeyboard library
 4. Upload the sketch to your DigiSpark
+```
 
 ## **📜 License**  
 MIT License. See [LICENSE](LICENSE).  
 
- ## **🤝Contributing ** 
- Feel free to contribute to the repository by submitting issues or creating pull requests to add more tools or improve functionality.
+## **🤝Contributing ** 
+Feel free to contribute to the repository by submitting issues or creating pull requests to add more tools or improve functionality.
